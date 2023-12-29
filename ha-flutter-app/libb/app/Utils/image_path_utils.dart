@@ -1,0 +1,65 @@
+mixin ImagePathUtils {
+  static const main_cover_image = 'assets/img_main_bg.png';
+  static const splash_image = 'assets/img_splash.png';
+  static const appbar_image = 'assets/img_logo.png';
+  static const location_person_marker = 'assets/img_person_location.png';
+  static const back_image = 'assets/img_back.png';
+  static const dob_image = 'assets/img_dob.png';
+  static const arrow_black_image = 'assets/img_arrow_black.png';
+  static const close_image = 'assets/img_close.png';
+  static const edit_image = 'assets/img_edit.png';
+  static const fb_image = 'assets/fb_logo.png';
+  static const google_image = 'assets/google_logo.png';
+  static const verified_image = 'assets/img_verified.png';
+  static const delete_image = 'assets/img_delete.png';
+  static const warning_image = 'assets/img_warning.png';
+  static const appbar_image_white = 'assets/image_appbar_white.png';
+  static const home_image_primary = 'assets/img_home_selected.png';
+  static const home_image = 'assets/img_home.png';
+  static const home_like_image = 'assets/img_likes.png';
+  static const home_like_primary = 'assets/img_likes_selected.png';
+  static const home_chat_image = 'assets/img_chat.png';
+  static const home_chat_primary = 'assets/img_chat_selected.png';
+  static const setting_image = 'assets/img_settings.png';
+  static const qod_image = 'assets/qod_image.png';
+  static const refresh_card_image = 'assets/img_refresh_card.png';
+  static const dislike_card_image = 'assets/img_dislike_card.png';
+  static const dislike_fill_card_image = 'assets/img_dislike_fill_card.png';
+  static const superlike_card_image = 'assets/img_superlike_card.png';
+  static const superlike_fill_card_image =
+      'assets/img_super_like_fill_card.png';
+  static const like_card_image = 'assets/img_like_card.png';
+  static const like_fill_card_image = 'assets/img_like_fill_card.png';
+  static const booster_card_image = 'assets/img_booster_card.png';
+  static const info_image = 'assets/img_info.png';
+  static const failed_image = 'assets/img_failed.png';
+  static const collapse_image = 'assets/img_collapse.png';
+  static const person_image = 'assets/img_person.png';
+  static const education_image = 'assets/img_education.png';
+  static const location_image = 'assets/img_location.png';
+  static const height_image = 'assets/img_height.png';
+  static const zodiac_image = 'assets/img_zodiac.png';
+  static const exercise_image = 'assets/img_exercise.png';
+  static const drinking_image = 'assets/img_drinking.png';
+  static const smoking_image = 'assets/img_smoking.png';
+  static const children_image = 'assets/img_children.png';
+  static const religion_image = 'assets/img_religion.png';
+  static const politics_image = 'assets/img_politics.png';
+  static const language_image = 'assets/img_language.png';
+  static const selected_plan_checked_circle_image =
+      'assets/img_selected_plan_checked_circle.png';
+  static const unselected_plan_check_circle_image =
+      'assets/img_unselected_plan_check_circle.png';
+  static const match_person_image = 'assets/img_match_person.png';
+  static const apple_logo_image = 'assets/img_apple_logo.png';
+  static const like_you_image = 'assets/img_like_you.png';
+  static const report_image = 'assets/img_report.png';
+  static const forward_arrow_image = 'assets/img_forward_arrow.png';
+  static const flag_image = 'assets/img_flag.png';
+  static const block_image = 'assets/img_block.png';
+  static const unMatch_image = 'assets/ic_unmatch_logo.png';
+  static const camera_image = 'assets/img_camera.png';
+  static const wow_its_a_match_image = 'assets/img_wow_its_a_match.png';
+  static const photo_image = 'assets/img_photo.png';
+  static const rewind_image = 'assets/img_rewind.png';
+}
